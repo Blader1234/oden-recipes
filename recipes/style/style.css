@@ -1,0 +1,15 @@
+.image{
+    height: auto;
+    width: 300px;
+
+}
+.large{
+     font-size: 28px
+     
+}
+.center{
+    text-align: center;
+}
+.red{
+    color: red;
+}
