@@ -23,7 +23,10 @@ body {
     text-align: center;
 }
 .red{
-    color: red;
+    color: rgb(196, 65, 65);
+    text-decoration-line: underline;
+    font-size: 75px;
+    font-style: italic ;
 }
 .main{
     background-color: rgb(245, 213, 35);
