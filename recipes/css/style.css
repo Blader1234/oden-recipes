@@ -8,11 +8,21 @@ body {
     width: 500px;
     margin: 0 auto;
     background-color: bisque;
-    
 }
+.align {
+    display: flex;
+    gap: 2em;
+    flex: 1;
+    font-size: x-large;
+} 
+
+.flexbox {
+    display: flex;
+}
+    
 .image{
     height: auto;
-    width: 300px;
+    width: 275px;
 
 }
 .large{
