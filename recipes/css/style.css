@@ -9,6 +9,13 @@ body {
     margin: 0 auto;
     background-color: bisque;
 }
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+a:hover {
+    color: rgb(241, 3, 3);
+}
 .align {
     display: flex;
     gap: 2em;
